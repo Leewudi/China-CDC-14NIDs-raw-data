@@ -31,12 +31,3 @@ If you use this dataset, please cite the following source:
 Data-center of China Public Health Science, 2020 https://www.phsciencedata.cn/Share/index.jsp
 
 ---
-
-### Example Markdown Features Included
-- **Headings** (`#`, `##`, etc.) for section titles.
-- **Lists** for organized points.
-- **Bold text** for emphasis.
-- **Tables** for file descriptions.
-- **Links** for referencing the data source.
-
-This version is visually appealing, easy to read, and structured logically. Let me know if you'd like further customization! 😊
