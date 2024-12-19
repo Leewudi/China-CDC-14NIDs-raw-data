@@ -1,2 +1,2 @@
 # China-CDC-14NIDs-raw-data
-Data on the number of incident cases and deaths disaggregated by age and region for 14 NIDs from 2010 to 2020.
+This study included data from 31 provinces in China, excluding Taiwan, Hong Kong, and Macau, covering the 14 diseases in the three major categories of notifiable infectious diseases (NIDs) (four intestinal infectious diseases (IIDs), five respiratory infectious diseases (RIDs), and five sexually transmitted and blood-borne infections (STBBIs)) from 2010 to 2020. Data on the number of incident cases and deaths disaggregated by age and region for 14 NIDs from 2010 to 2020, were obtained from the Data-center of China Public Health Science (https://www.phsciencedata.cn/Share/index.jsp). 
